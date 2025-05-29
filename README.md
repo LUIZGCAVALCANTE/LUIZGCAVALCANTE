@@ -1,6 +1,6 @@
 
 
-## Olá eu sou o Luiz Gustavo, estudando Engenharia de Software!
+## Olá eu sou o Luiz Gustavo, Cursando Engenharia de Software!
 ## Com foco em desenvolvimento Back-end!
 
 📫 Contate-me: luizgustavolg@live.com
@@ -35,4 +35,3 @@
   <a href="https://www.linkedin.com/in/luiz-gustavo-cavalcante-74b729229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-  ##
